@@ -1,0 +1,2 @@
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.pdb
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.exe

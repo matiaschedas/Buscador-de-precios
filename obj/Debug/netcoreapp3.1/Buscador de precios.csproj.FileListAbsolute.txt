@@ -1,0 +1,57 @@
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Buscador de precios.exe
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Buscador de precios.deps.json
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Buscador de precios.runtimeconfig.json
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Buscador de precios.runtimeconfig.dev.json
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Buscador de precios.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Buscador de precios.pdb
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.AssemblyInfo.cs
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.dll
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.pdb
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.genruntimeconfig.cache
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\PuppeteerSharp.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\ScrapySharp.Core.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\ScrapySharp.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.csproj.CopyComplete
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.csproj.AssemblyReference.cache

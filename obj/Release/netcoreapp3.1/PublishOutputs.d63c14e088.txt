@@ -1,0 +1,39 @@
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.exe
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.deps.json
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.runtimeconfig.json
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Buscador de precios.pdb
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\FSharp.Core.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\HtmlAgilityPack.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Logging.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Options.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Microsoft.Net.Http.Headers.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\PuppeteerSharp.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\ScrapySharp.Core.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\ScrapySharp.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\ICSharpCode.SharpZipLib.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\System.Runtime.Caching.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\cs\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\de\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\en\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\es\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\fr\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\it\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\ja\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\ko\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\pl\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\pt-BR\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\ru\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\tr\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\zh-Hans\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\zh-Hant\FSharp.Core.resources.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\matia\source\repos\Buscador de precios\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
