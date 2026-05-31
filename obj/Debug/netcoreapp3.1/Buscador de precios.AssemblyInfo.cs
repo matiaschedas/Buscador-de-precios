@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buscador de precios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f181ee16a60743476002ddffad082ca6d7b04c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buscador de precios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buscador de precios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -44,67 +44,74 @@ namespace Buscador_de_precios
             string url = Console.ReadLine();
             bool paso = true;
             int segundos = 10;
-           
+
+            paso = true;
+            Console.Write("Ingrese Intervalos de tiempo [segundos] [min: 10]: ");
+            string s;
             do
             {
-                paso = true;
-                Console.Write("Ingrese Intervalos de tiempo [segundos] [min: 10]: ");
-                string s = Console.ReadLine();
+                s = Console.ReadLine();
                 try
                 {
                     segundos = Convert.ToInt32(s);
                     if (segundos < 10)
                         throw new Exception();
-                    
+                    paso = true;
                 }
                 catch
                 {
                     Console.Write("Ingrese un tiempo valido\n");
                     paso = false;
                 }
-                if (paso)
+            } while ( paso == false );
+            do
+            {
+                Console.Write("Ingrese cantidad de articulos a consultar [maximo 20]: ");
+                s = Console.ReadLine();
+                try
                 {
-                    Console.Write("Ingrese cantidad de articulos a consultar [maximo 20]: ");
-                    s = Console.ReadLine();
-                    try
-                    {
-                        cantidadArticulos = Convert.ToInt32(s);
-                        if (cantidadArticulos < 1 || cantidadArticulos > 20)
-                            throw new Exception();
+                    cantidadArticulos = Convert.ToInt32(s);
+                    if (cantidadArticulos < 1 || cantidadArticulos > 20)
+                        throw new Exception();
+                    paso = true;
 
-                    }
-                    catch
-                    {
-                        Console.Write("Ingrese una cantidad de articulos valida\n");
-                        paso = false;
-                    }
-                    if (paso)
-                    {
-                        Console.Write("Ingrese nro de articulo pivot: ");
-                        s = Console.ReadLine();
-                        try
-                        {
-                            pivot = Convert.ToInt32(s);
-                            if (pivot < 1 || pivot > cantidadArticulos)
-                                throw new Exception();
-                        }
-                        catch
-                        {
-                            Console.Write("Ingrese un pivot valido\n");
-                            paso = false;
-                        }
-                        Console.Write("Ingrese ID de destino de telegram (ej: 1018644491): ");
-                        s = Console.ReadLine();
-                        try
-                        {
-                            destino = Convert.ToInt32(s);
-                        }
-                        catch
-                        {
-                            Console.Write("Ingrese un ID de destino valido\n");
-                            paso = false;
-                        }
-                    }
+                }
+                catch
+                {
+                    Console.Write("Ingrese una cantidad de articulos valida\n");
+                    paso = false;
+                }
+            } while (paso == false);
+            do
+            {
+                Console.Write("Ingrese nro de articulo pivot: ");
+                s = Console.ReadLine();
+                try
+                {
+                    pivot = Convert.ToInt32(s);
+                    if (pivot < 1 || pivot > cantidadArticulos)
+                        throw new Exception();
+                    paso = true;
+                }
+                catch
+                {
+                    Console.Write("Ingrese un pivot valido\n");
+                    paso = false;
+                }
+            } while (paso == false);
+            do
+            {
+                Console.Write("Ingrese ID de destino de telegram (ej: 1018644491): ");
+                s = Console.ReadLine();
+                try
+                {
+                    destino = Convert.ToInt32(s);
+                    paso = true;
+                }
+                catch
+                {
+                    Console.Write("Ingrese un ID de destino valido\n");
+                    paso = false;
                 }
             } while (paso == false);
 
@@ -137,7 +144,7 @@ namespace Buscador_de_precios
                 if (articulos.getPrecio() < precioMinimo)
                 {
                     precioMinimo = articulos.getPrecio();
-                    diaHsPrecioMinimo = DateTime.Now.ToString(); ;
+                    diaHsPrecioMinimo = DateTime.Now.ToString(); 
                     textoTelegram += "El precio minimo hasta ahora: " + precioMinimo + " obtenida: " + diaHsPrecioMinimo+"\n";
                     textoTelegram += "El precio minimo aumento a: " + precioMaximo + " obtenida: " + diaHsPrecioSubio+"\n";
                     directorioSonido1 = Path.Combine(Environment.CurrentDirectory, "alerta.wav");
@@ -206,26 +213,21 @@ namespace Buscador_de_precios
             int i = 0;
             foreach (var Nodo in doc.DocumentNode.CssSelect(".product-price"))
             {
-                if (i < cantidadArticulos*2)
+                var spanPrecio = Nodo.CssSelect("span[itemprop='price']").FirstOrDefault();
+                if (spanPrecio != null)
                 {
-                    precio = Nodo.InnerHtml;
-                    if (!precio.Contains("$"))
-                    {
-                        precios.Add(Nodo.InnerHtml);
-                    }
+                    string precioInterno = spanPrecio.GetAttributeValue("content", "");
+                    precios.Add(precioInterno);
                 }
-                else
-                    break;
+                if (i == cantidadArticulos-1) break;
                 i++;
             }
             i = 0;
-            foreach (var Nodo in doc.DocumentNode.CssSelect(".product-title"))
+            foreach (var Nodo in doc.DocumentNode.CssSelect(".product-name"))
             {
-                if (i <= cantidadArticulos)
-                {
-                    descripcion = Nodo.InnerHtml;
-                    descripciones.Add(descripcion);
-                }
+                descripcion = Nodo.InnerHtml;
+                descripciones.Add(descripcion);
+                if (i == cantidadArticulos - 1) break;
                 i++;
             }
             i = 0;

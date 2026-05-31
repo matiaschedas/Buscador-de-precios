@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2z3bWc3gBwXbLe3Q2kPghzEWKMYmAgNJ4pGCLE++pkmuVwyAiIZtfD6PxtVdbw4VQPpBliA8e4CtO/YImvjibA==",
+  "dgSpecHash": "ozpkCnU0r2o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matia\\source\\repos\\Buscador de precios\\Buscador de precios.csproj",
+  "projectFilePath": "C:\\Users\\matia\\source\\repos\\Buscador de Precios\\Buscador de precios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matia\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
     "C:\\Users\\matia\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
@@ -29,8 +29,7 @@
     "C:\\Users\\matia\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0-preview1-26216-02\\system.security.cryptography.protecteddata.4.5.0-preview1-26216-02.nupkg.sha512",
     "C:\\Users\\matia\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\matia\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\matia\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
-    "C:\\Users\\matia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\matia\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
   ],
   "logs": []
 }

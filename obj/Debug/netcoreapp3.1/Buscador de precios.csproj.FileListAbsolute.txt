@@ -45,7 +45,6 @@ C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\zh-Hans\
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.csproj.CopyComplete
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
@@ -55,3 +54,5 @@ C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 C:\Users\matia\source\repos\Buscador de precios\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
 C:\Users\matia\source\repos\Buscador de precios\obj\Debug\netcoreapp3.1\Buscador de precios.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Buscador de Precios\obj\Debug\netcoreapp3.1\Buscador de precios.sourcelink.json
+C:\Users\matia\source\repos\Buscador de Precios\obj\Debug\netcoreapp3.1\Buscador.5C7BACB0.Up2Date
